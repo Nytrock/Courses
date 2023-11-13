@@ -11,7 +11,7 @@ P.S. There are no courses from GeekBrains because it's cringe.
 - [Python Programming Basics](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
 - [Yandex Lyceum](https://lyceum.yandex.ru/python)
 - [Yandex Lyceum specialization "Web development on Django"](https://lyceum.yandex.ru/django)
-- [Python: Basics and Applications](https://stepik.org/course/512) ([repository](https://github.com/Nytrock/Stepik_Python_Course))
+- [Python: Basics and Applications](https://stepik.org/course/512)
 
 ## C++
 - [Introduction to C++ Programming](https://stepik.org/course/363)
