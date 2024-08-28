@@ -4,8 +4,8 @@ This repository contains every course I've ever taken. All courses are divided i
 P.S. There are no courses from GeekBrains because it's cringe.
 
 ## С#
-- [C# with Speedwagon!](https://stepik.org/course/118709) ([repository](https://github.com/Nytrock/JoJo_CSharp_Course))
-- [C# 2023 FROM ZERO TO PRO](https://youtu.be/w8rRhAup4kg) ([repository](https://github.com/Nytrock/Sakutin_CSharp_Course))
+- [C# with Speedwagon!](https://stepik.org/course/118709)
+- [C# 2023 FROM ZERO TO PRO](https://youtu.be/w8rRhAup4kg)
 
 ## Python
 - [Python Programming Basics](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
